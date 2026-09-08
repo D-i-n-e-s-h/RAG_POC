@@ -1,0 +1,6 @@
+ollama
+pydantic
+llama3
+requests
+beautifulsoup4
+ddgs
