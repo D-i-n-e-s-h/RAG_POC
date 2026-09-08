@@ -1,0 +1,5 @@
+Employees can claim travel reimbursement for approved business trips.
+
+Taxi, flight and hotel expenses are reimbursable.
+
+Receipts must be submitted within 15 days.
