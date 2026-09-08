@@ -1,0 +1,4 @@
+ollama
+numpy
+faiss-cpu
+rank-bm25

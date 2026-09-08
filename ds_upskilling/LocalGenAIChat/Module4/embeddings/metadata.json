@@ -1,0 +1,14 @@
+[
+    {
+        "file_name": "InsurancePolicy.txt",
+        "content": "Medical insurance covers employees, spouse and children.\n\nParents are not covered under the standard plan.\n\nHospitalization expenses are cashless at network hospitals."
+    },
+    {
+        "file_name": "LeavePolicy.txt",
+        "content": "Employees are entitled to 20 annual leaves every calendar year.\n\nUnused leaves can be carried forward for up to 5 days.\n\nManager approval is required before taking leave."
+    },
+    {
+        "file_name": "TravelPolicy.txt",
+        "content": "Employees can claim travel reimbursement for approved business trips.\n\nTaxi, flight and hotel expenses are reimbursable.\n\nReceipts must be submitted within 15 days."
+    }
+]
